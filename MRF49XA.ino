@@ -32,7 +32,7 @@ void SerialPrint() {
   }
 
 byte setByteQueue(byte MSB, byte LSB, byte SetDefault) {
-   if (isByte(MSB) or isByte(LSB)) return getByte(MSB, LSB);
+   if (isByte(MSB) && isByte(LSB)) return getByte(MSB, LSB);
    return SetDefault;
   }
 
