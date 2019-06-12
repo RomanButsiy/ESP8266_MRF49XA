@@ -3,9 +3,8 @@
 <a href="https://raw.githubusercontent.com/RomanButsiy/ESP8266_MRF49XA/master/screens/Screen2.png"><img src="https://raw.githubusercontent.com/RomanButsiy/ESP8266_MRF49XA/master/screens/Screen2.png" align="left" height="220" width="425" ></a>
 <a href="https://raw.githubusercontent.com/RomanButsiy/ESP8266_MRF49XA/master/screens/Screen3.png"><img src="https://raw.githubusercontent.com/RomanButsiy/ESP8266_MRF49XA/master/screens/Screen3.png" align="left" height="220" width="425" ></a>
 <a href="https://raw.githubusercontent.com/RomanButsiy/ESP8266_MRF49XA/master/screens/Screen4.png"><img src="https://raw.githubusercontent.com/RomanButsiy/ESP8266_MRF49XA/master/screens/Screen4.png" align="left" height="220" width="425" ></a>
-
-##
-##
+<br>
+<br>
 # ESP8266 MRF49XA
  - Розробив Roman
  - Канал на YouTube: https://goo.gl/x8FL2o
